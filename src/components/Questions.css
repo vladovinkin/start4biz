@@ -1,0 +1,33 @@
+.questions {
+    width: 1400px;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 48px;
+    background: #A0A0A0;
+    padding: 50px 166px 176px 130px;
+    box-sizing: border-box;
+}
+
+.questions__head {
+    margin: 0 auto;
+    margin-bottom: 100px; 
+    color: black;
+}
+
+.questions__btn {
+    width: 146px;
+    height: 30px;
+    line-height: 30px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background: #F4F5F6;
+    margin-top: 40px;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #2C2F3D;
+}
